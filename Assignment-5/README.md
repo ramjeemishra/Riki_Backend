@@ -240,4 +240,4 @@ Name: Ramjee, Role: developer
 
 The screenshot below shows the terminal output of server.js.
 
-![Terminal](Screenshots/terminal.png)
+![Terminal](./Screenshots/Terminal.png)
