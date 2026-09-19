@@ -1,6 +1,4 @@
 .DS_Store
 
 node_modules/
-serviceAccountKey.json
-package-lock.json
-package.json
+ServiceAccountKey.json
